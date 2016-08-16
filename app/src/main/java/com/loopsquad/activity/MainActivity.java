@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });*/
 
-        String url = "http://loop.co.id/loopsquads/squad2016apps";
+        String url = "http://loop.co.id/loopkita_index";
         webView.setWebChromeClient(new MyChromeClient());
         webView.loadUrl(url);
 

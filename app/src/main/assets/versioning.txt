@@ -1,0 +1,6 @@
+version code: 2
+version name: 2.0
+publish date: 2016/08/16
+
+changelog:
+- update url: http://loop.co.id/loopkita_index
